@@ -104,13 +104,13 @@ http://localhost:8000
 
 ![World Map](Screenshots/world-map.png)
 
-## Lineage Chart
-
-![Lineage Chart](Screenshots/lineage-chart.png)
-
 ## Yearly Analysis
 
 ![Yearly Analysis](Screenshots/yearly-analysis.png)
+
+## Lineage Chart
+
+![Lineage Chart](Screenshots/lineage-chart.png)
 
 ---
 
